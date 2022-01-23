@@ -17,9 +17,11 @@
   - ... インデントの階層を色分けして見やすくしてくれる
 - vscode-icons ([`vscode-icons-team.vscode-icons`](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
   - ... 左ペインの Explorerのファイルアイコンをバリエーション豊かにしてくれる（ 同種の拡張として [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme), [seti-icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)などもおすすめ）
-### Intellisense
+### Intellisense & AutoCompletes
 - Visual Studio IntelliCode ([`visualstudioexptteam.vscodeintellicode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode))
   - ... AI 支援により APIサジェスト一覧の精度を向上させる
+- Path Intellisense ([`christian-kohler.path-intellisense`](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense))
+  - ... ファイルパスの自動補完
 ### フロントエンド
 - Auto Import ([`steoates.autoimport`](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport))
   - ... 利用可能なインポートに対して、自動的にコードアクションとコード補完を提供してくれる（Typescriptと TSXで動作）
