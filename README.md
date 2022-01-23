@@ -6,6 +6,8 @@
   - ... Gitのコミット履歴を見やすく表示してくれる
 - Vim ([`vscodevim.vim`](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim))
   - ... VS Code 上で走る Vimエミュレータ
+- Remote - SSH ([`ms-vscode-remote.remote-ssh`](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh))
+  - ... リモートサーバーに SSHで接続し、VS Codeを利用できる
 - Remote - WSL ([`ms-vscode-remote.remote-wsl`](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl))
   - ... Windows環境から WSLのファイルシステムにあるプロジェクトを開けるようにする
 - Live Share ([`ms-vsliveshare.vsliveshare`](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare))
