@@ -16,11 +16,13 @@
 - indent-rainbow ([`oderwat.indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow))
   - ... インデントの階層を色分けして見やすくしてくれる
 - vscode-icons ([`vscode-icons-team.vscode-icons`](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
-  - ... 左ペインの Explorerのファイルアイコンをバリエーション豊かにしてくれる
+  - ... 左ペインの Explorerのファイルアイコンをバリエーション豊かにしてくれる（ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme), [seti-icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)などもおすすめ）
 ### Intellisense
 - Visual Studio IntelliCode ([`visualstudioexptteam.vscodeintellicode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode))
   - ... AI 支援により APIサジェスト一覧の精度を向上させる
 ### フロントエンド
+- Auto Import ([`steoates.autoimport`](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport))
+  - ... 利用可能なインポートに対して、自動的にコードアクションとコード補完を提供してくれる（Typescriptと TSXで動作）
 - ESLint ([`dbaeumer.vscode-eslint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
   - ... JavaScriptの静的コード解析ツール
 - stylelint ([`stylelint.vscode-stylelint`](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint))
