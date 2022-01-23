@@ -16,7 +16,7 @@
 - indent-rainbow ([`oderwat.indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow))
   - ... インデントの階層を色分けして見やすくしてくれる
 - vscode-icons ([`vscode-icons-team.vscode-icons`](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
-  - ... 左ペインの Explorerのファイルアイコンをバリエーション豊かにしてくれる（ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme), [seti-icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)などもおすすめ）
+  - ... 左ペインの Explorerのファイルアイコンをバリエーション豊かにしてくれる（ 同種の拡張として [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme), [seti-icons](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)などもおすすめ）
 ### Intellisense
 - Visual Studio IntelliCode ([`visualstudioexptteam.vscodeintellicode`](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode))
   - ... AI 支援により APIサジェスト一覧の精度を向上させる
